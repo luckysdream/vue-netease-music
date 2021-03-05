@@ -1,4 +1,4 @@
-# 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player
+# 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Play
 
 音乐播放器虽然烂大街了，但是作为前端没自己撸一个一直是个遗憾。
 
